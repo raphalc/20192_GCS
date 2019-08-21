@@ -7,5 +7,5 @@ git commit -m "Arquivo Readme"
 git staut
 git log
 git remote add origin https://github.com/raphaellc/20192_GCS.git
-git push origin master
+git push -u origin master
 git clone https://github.com/raphaellc/20192_GCS.git
